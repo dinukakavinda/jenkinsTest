@@ -1,0 +1,1 @@
+echo 'This is Git reply to Jenkins!'
